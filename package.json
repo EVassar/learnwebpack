@@ -1,0 +1,23 @@
+{
+  "name": "learnwebpack",
+  "version": "1.0.0",
+  "description": "Learnign Web Pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EVassar/learnwebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EVassar/learnwebpack/issues"
+  },
+  "homepage": "https://github.com/EVassar/learnwebpack#readme",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
+}
